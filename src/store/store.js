@@ -1,7 +1,7 @@
 import axios from 'axios';
 //all states
 const state = {
-    baseURL: "http://weast-enegie.rtgroup-rdc.com",
+    baseURL: "http://weast-energie.com",
     optionAxios: {
         headers: {
             'Content-Type': 'application/x-www-form-urlencoded'

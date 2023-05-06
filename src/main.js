@@ -30,7 +30,7 @@ Vue.config.productionTip = false;
 
 //api instance
 var instance = axios.create({
-    baseURL: 'http://weast-enegie.rtgroup-rdc.com/',
+    baseURL: 'http://weast-energie.com/',
     headers: {
         'Content-Type': 'application/x-www-form-urlencoded'
     }
